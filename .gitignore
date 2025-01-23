@@ -1,0 +1,12 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# macOS system files
+.DS_Store
+
+# Virtual environments
+myenv/
+
+# Any other unnecessary files can be added here
